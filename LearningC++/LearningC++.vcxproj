@@ -80,8 +80,8 @@
     <ClCompile Include="src\Main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Tests.h" />
-    <ClInclude Include="src\Tests\Classes.h" />
+    <ClInclude Include="src\Tests.hpp" />
+    <ClInclude Include="src\Tests\Classes.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
